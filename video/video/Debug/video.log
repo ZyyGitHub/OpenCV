@@ -1,0 +1,2 @@
+﻿  video.cpp
+e:\git\opencv\video\video\video.cpp(6): fatal error C1083: 无法打开包括文件: “opencv2/core.hpp”: No such file or directory
